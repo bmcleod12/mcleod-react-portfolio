@@ -26,12 +26,13 @@ function About() {
                     <span class="badge bg-light text-dark">Github</span>
                     <span class="badge bg-light text-dark">Gitlab</span>
                     <span class="badge bg-light text-dark">Mongoose</span>
+                    <span class="badge bg-light text-dark">Node.js</span> 
+                    <span class="badge bg-light text-dark">React</span>
                   </p>
                 <p class="text-2xl pt-5">
                   With plans to learn:
                 </p>
-                  <p class="text-xl"><span class="badge bg-light text-dark">Node.js</span> 
-                    <span class="badge bg-light text-dark">React</span>
+                  <p class="text-xl">
                     <span class="badge bg-light text-dark">Java</span>
                     <span class="badge bg-light text-dark">Android Development</span>
                   </p>
