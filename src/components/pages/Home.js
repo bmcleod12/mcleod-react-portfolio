@@ -1,8 +1,10 @@
 import React from "react";
+import backgroundImage from "../images/kc-shuffle.jpg"
 
 function Home() {
   return (
     <div>
+      <img src={backgroundImage} alt="We're not in Kansas anymore."></img>
         <div className="col-md-5 p-5 offset-md-7">
           <div className="card bg-gray-600 bg-opacity-60 text-gray-50">
             <div className="card-body">
