@@ -1,0 +1,59 @@
+
+[
+    {
+      "id": 1,
+      "name": "Fitness Witness",
+      "deployed": "https://gentle-earth-60379.herokuapp.com/",
+      "repo": "https://github.com/bmcleod12/fitness-witness",
+      "image": "images/fitness-witness.png",
+      "alt": "Screenshot of Fitness app with charts on workout data.",
+      "description": "provides a way to keep track of workouts and progress."
+    },
+    {
+      "id": 2,
+      "name": "24/7 Budget Buddy",
+      "deployed": "https://intense-hollows-48841.herokuapp.com/",
+      "repo": "https://github.com/bmcleod12/24-7_Budget-Buddy",
+      "image": "images/budgetbuddy.png",
+      "alt": "Screenshot of Budget Buddy app showing current cash on hand with total trend.",
+      "description": "gives you the option to track you incoming and outgoing expenses whether you are online or offline."
+    },
+    {
+      "id": 3,
+      "name": "Burger Log",
+      "deployed": "https://frozen-hollows-62628.herokuapp.com/",
+      "repo": "https://github.com/bmcleod12/good-burger",
+      "image": "images/burger-log.PNG",
+      "alt": "Screenshot of Burger log site displaying a panel for already eaten burgers and burgers on the to-eat list.",
+      "description": "gives you a place to keep track of burgers you have eaten or would like to eat."
+    },
+    {
+      "id": 4,
+      "name": "Dogtionary",
+      "deployed": "https://kcnancy.github.io/Dogtionary/",
+      "repo": "https://github.com/kcnancy/Dogtionary",
+      "image": "images/dogtionary.PNG",
+      "alt": "Screenshot of Dogtionary site displaying a black lab available for adoption.",
+      "description": "helps you find dogs in your area in need of a home and displays information about a breed for your consideration."
+    },
+    {
+      "id": 5,
+      "name": "Harry Potter Quiz",
+      "deployed": "https://bmcleod12.github.io/queen-of-the-quiz/",
+      "repo": "https://github.com/bmcleod12/queen-of-the-quiz",
+      "image": "images/quiz.PNG",
+      "alt": "Screenshot of Harry Potter quiz question.",
+      "description": "tests your knowledge of the wizarding world with a timed and scored series of questions."
+    },
+    {
+      "id": 6,
+      "name": "Weather Dashboard",
+      "deployed": "https://bmcleod12.github.io/light-as-a-weather/",
+      "repo": "https://github.com/bmcleod12/light-as-a-weather",
+      "image": "images/dashboard.PNG",
+      "alt": "Screenshot of dashboard displaying today's weather for New York, and the weather for the next 5 days.",
+      "description": "helps you prepare for today and the next 5 days."
+    }
+  ]
+
+  
