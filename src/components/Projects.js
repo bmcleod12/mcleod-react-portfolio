@@ -3,14 +3,13 @@ import projects from "../projects.json";
 
 function Projects() {
     return (
-        <div className="container p-3 mb-5 bg-success">
+        <div className="container p-2 mb-5 bg-success">
             <div className="row">
                 <div className="col-md-12 text-light">
-                    <h2>Below are a few projects with their deployed links and repos.</h2>
+                    <h3>Below are a few projects with their deployed links and repos.</h3>
                 </div>
             </div>
-            <div className="row justify-content-around mb-5">
-
+            <div className="row justify-content-around mb-4">
                 {projects.map(project => {
                     return (
                         <div className="card bg-light col-md-8 gy-5">
