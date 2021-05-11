@@ -18,7 +18,7 @@ function Projects() {
                             <p>
                                 The <a href={project.deployed} >{project.name}</a> {project.description}
                             </p>
-                        <img src={project.image} className="img-fluid rounded px-3 mb-3"
+                            <img src={project.image} className="img-fluid rounded px-3 mb-3"
                                 alt={project.alt} />
                             <p>
                                 See the code behind the magic in the <a href={project.repo}>{project.name} Repo</a>.</p>

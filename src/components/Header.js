@@ -17,7 +17,7 @@ function Header() {
             <li className="nav-item">
               <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
                 Home
-         </Link>
+              </Link>
             </li>
             <li className="nav-item">
               <Link
