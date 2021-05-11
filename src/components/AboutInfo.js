@@ -3,7 +3,7 @@ import mcleod from "../images/mcleod.PNG";
 
 function AboutInfo() {
     return (
-        <div className="row my-4 bg-success">
+        <div className="row bg-success">
         <div className="container pb-5 mb-2 mt-3">
           <div className="row-fluid text-light">
             <div className="col-sm-4">
@@ -19,36 +19,36 @@ function AboutInfo() {
               <h4>
                 She is proficient with the following:
                 </h4>
-              <p className="pt-2 text-xl">Languages:</p>
-              <p className="text-xl">
-                <span className="badge bg-light text-dark">HTML</span>
-                <span className="badge bg-light text-dark">CSS</span>
-                <span className="badge bg-light text-dark">JavaScript</span>
-                <span className="badge bg-light text-dark">MySQL</span>
-                <span className="badge bg-light text-dark">MongoDB</span>
+              <h5 className="pt-2">Languages:</h5>
+              <p>
+                <span className="badge bg-light text-dark m-1">HTML</span>
+                <span className="badge bg-light text-dark m-1">CSS</span>
+                <span className="badge bg-light text-dark m-1">JavaScript</span>
+                <span className="badge bg-light text-dark m-1">MySQL</span>
+                <span className="badge bg-light text-dark m-1">MongoDB</span>
               </p>
-              <p className="pt-2 text-xl">Development Tools:</p>
-              <p className="text-xl">
-                <span className="badge bg-light text-dark">jQuery</span>
-                <span className="badge bg-light text-dark">Bootstrap</span>
-                <span className="badge bg-light text-dark">Tailwindcss</span>
-                <span className="badge bg-light text-dark">Handlebars</span>
-                <span className="badge bg-light text-dark">Github</span>
-                <span className="badge bg-light text-dark">Gitlab</span>
-                <span className="badge bg-light text-dark">Mongoose</span>
-                <span className="badge bg-light text-dark">Node.js</span>
-                <span className="badge bg-light text-dark">React</span>
+              <h5 className="pt-2">Development Tools:</h5>
+              <p>
+                <span className="badge bg-light text-dark m-1">jQuery</span>
+                <span className="badge bg-light text-dark m-1">Bootstrap</span>
+                <span className="badge bg-light text-dark m-1">Tailwindcss</span>
+                <span className="badge bg-light text-dark m-1">Handlebars</span>
+                <span className="badge bg-light text-dark m-1">Github</span>
+                <span className="badge bg-light text-dark m-1">Gitlab</span>
+                <span className="badge bg-light text-dark m-1">Mongoose</span>
+                <span className="badge bg-light text-dark m-1">Node.js</span>
+                <span className="badge bg-light text-dark m-1">React</span>
               </p>
-              <p className="text-2xl pt-5">
+              <h5 className="pt-2">
                 With plans to learn:
-                </p>
-              <p className="text-xl">
-                <span className="badge bg-light text-dark">Java</span>
-                <span className="badge bg-light text-dark">Android Development</span>
+                </h5>
+              <p>
+                <span className="badge bg-light text-dark m-1">Java</span>
+                <span className="badge bg-light text-dark m-1">Android Development</span>
               </p>
-              <p className="text-2xl pt-5">
-                Want to see more? Grab a copy of my <a className="underline" href="assets\McLeod_Resume 2021.pdf" target="_blank" alt="McLeod Resume" >Resume</a> and drop me a line.
-                </p>
+              <h5 className="pt-3">
+                Want to see more? Grab a copy of my <a className="underline text-light" href="assets\McLeod_Resume 2021.pdf" target="_blank" alt="McLeod Resume" >Resume</a> and drop me a line.
+                </h5>
             </div>
           </div>
         </div>
