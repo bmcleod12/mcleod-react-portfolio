@@ -2,8 +2,6 @@
 
 ## Requirements
 
-* A single `Project` component that will be used multiple times on a single page 
-
 * Navigation with React Router, dynamic rendering, or another third part router
 
 * Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
